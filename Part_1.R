@@ -8,6 +8,7 @@ df[,][df[, ,] == -999] = NA
 sum(is.na(df)) #329 obs are NA
 clean.df <- complete.cases(df)
 df1 <- df[clean.df, ]
+scaled.df1 <- scale(df1)
 # omitted 329 NA obs, left 7647 obs. with 11 variables
 str(df1)
 
