@@ -11,9 +11,13 @@ Q2b - Age
 Values numeric
 
 Q87a - I have felt cheerful and in good spirits [...which is the closest to how you have been feeling over the last two weeks]
+
 Q87b - I have felt calm and relaxed [...which is the closest to how you have been feeling over the last two weeks]
+
 Q87c - I have felt active and vigorous [...which is the closest to how you have been feeling over the last two weeks]
+
 Q87d - I woke up feeling fresh and rested [...which is the closest to how you have been feeling over the last two weeks]
+
 Q87e - My daily life has been filled with things that interest me [...which is the closest to how you have been feeling over the last two weeks]
 
 Values for variables Q87a to Q87e
