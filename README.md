@@ -29,8 +29,11 @@ Values for variables Q87a to Q87e
 6: At no time
 
 Q90a - At my work I feel full of energy [Please tell me how often you feel this way...]
+
 Q90b - I am enthusiastic about my job [Please tell me how often you feel this way...]
+
 Q90c - Time flies when I am working [Please tell me how often you feel this way...]
+
 Q90f - In my opinion, I am good at my job  [Please tell me how often you feel this way...]
 
 Values for variables Q90a to Q90f
