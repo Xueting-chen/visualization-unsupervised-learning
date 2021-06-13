@@ -1,4 +1,4 @@
-setwd("~/Desktop/UOL/ML Year 3/Coursework/Part 1")
+
 df <- read.csv("EWCS_2016.csv", sep = ",", header = T)
 head(df)
 
