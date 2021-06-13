@@ -23,3 +23,13 @@ Next, we would like to understand the distribution of age among the workers. Fig
 3.	Principal Components Analysis
 
 PCA is a dimensionality-reduction method which can transform a large set of data or correlated variables into a smaller number of representative variables that still preserve most of the information about the original dataset. Figure 4 below shows a PCA biplot of the scaled dataset, variables Q2b and Q87 will strongly influence PC1 as they hold the heaviest loading weights. Vectors of Q87a to Q87e are relatively close to one another, hence the variables they represent are positively correlated. Similar observations are made for vectors of Q90a to Q90f, also age and gender. The strength of correlation between questions can be determined by the degree of angle, there will be correlation as long as the vectors are not orthogonal.
+
+![image](https://user-images.githubusercontent.com/81580783/121814904-0bd3cf00-cca6-11eb-87b7-e6d24ebf266e.png)
+![image](https://user-images.githubusercontent.com/81580783/121814908-13937380-cca6-11eb-862f-7979028c9273.png)
+
+Figure 5 is a scree plot depicting the proportion of variance explained (PVE) and cumulative PVE. According to the scree plots, the first principal component (PC) explains 40% of the variance in the data, the next PC explains 12.8% of the variance. Cumulatively, these two PCs explain only about 52% of the total data which is not accurate enough as a summary hence we might consider including more PCs to increase the accuracy.
+
+
+
+
+
